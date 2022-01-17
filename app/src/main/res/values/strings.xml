@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DataCollectionApp</string>
+    <string name="btn_dataCollect">Collect Data</string>
+</resources>
